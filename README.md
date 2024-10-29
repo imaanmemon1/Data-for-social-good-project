@@ -17,9 +17,9 @@ Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, 
 
 Include your User Story you analyzed for your project here. Your User Story should have the following format: 
 
-> As an [concert promoter], <br> 
-> I want to [analyze attendance for Taylor Swift’s concerts and ticket sales data], <br> 
-> so that I can [optimize future concert bookings and marketing strategies]. 
+> As an **concert promoter**, <br> 
+> I want to **analyze attendance for Taylor Swift’s concerts and ticket sales data**, <br> 
+> so that I can **optimize future concert bookings and marketing strategies**. 
 
 ## Dataset 
 
