@@ -15,9 +15,10 @@ Software engineers develop programs to work with data and provide information to
 Example: 
 
 Dataset: https://www.kaggle.com/datasets/sansuthi/global-co2-emissions 
-- **Country** (String) - name of the country 
-- **Population** (int) - number of people in the country 
-- **CO2Emissions** (double) - carbon dioxide emission in kilotons 
+- **venues** (String) - place Taylor Swift has her concert
+- **ticketsSold** (int) - tickets sold for the concert
+- **ticketsAvailable** (int) - amount of tickets available for the concert
+- **revenues** (double) - income of each concert held
 
 ## UML Diagram 
 
