@@ -14,7 +14,7 @@ Software engineers develop programs to work with data and provide information to
 
 Example: 
 
-Dataset: https://www.kaggle.com/datasets/sansuthi/global-co2-emissions 
+Dataset: https://www.kaggle.com/datasets/gayu14/taylor-concert-tours-impact-on-attendance-and
 - **venues** (String) - place Taylor Swift has her concert
 - **ticketsSold** (int) - tickets sold for the concert
 - **ticketsAvailable** (int) - amount of tickets available for the concert
