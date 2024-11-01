@@ -22,8 +22,9 @@ Dataset: https://www.kaggle.com/datasets/gayu14/taylor-concert-tours-impact-on-a
 
 ## UML Diagram 
 
-![UML Diagram for my project](nameOfImageFileHere.png) 
+[Copy of UML Diagram.pdf](https://github.com/user-attachments/files/17603633/Copy.of.UML.Diagram.pdf)
+
 
 ## Description 
 
-Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project.
+This project creates a data analysis program for a concert promoter who wants to improve attendance and ticket sales for Taylor Swift's concerts. It uses a dataset from Kaggle that includes information about venues, tickets sold, tickets available, and revenue. Users can interact with the program through a simple console interface using the Scanner class. They can choose options to find out the revenue for specific venues, total tickets sold, average revenue per venue, or view all concert information. This easy-to-use program helps the promoter make better decisions based on past data, ultimately improving marketing strategies and future concert bookings.
