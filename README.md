@@ -22,7 +22,7 @@ Dataset: https://www.kaggle.com/datasets/gayu14/taylor-concert-tours-impact-on-a
 
 ## UML Diagram 
 
-![Copy of UML Diagram.pdf](https://github.com/user-attachments/files/17603633/Copy.of.UML.Diagram.pdf)
+![Copy of UML Diagram (1)](https://github.com/user-attachments/assets/12825dfc-bb37-496e-97a5-61d5ee9033b4)
 
 
 ## Description 
