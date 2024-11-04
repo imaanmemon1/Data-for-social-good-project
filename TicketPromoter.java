@@ -56,7 +56,7 @@ public class TicketPromoter {
        This method iterates through the concerts array and sums the tickets sold for each concert.
     */
     public int totalTicketsSold() {
-        int total = 0; // Initialize total to zero
+        int total = 0; 
         for (Concert concert : concerts) {
             total += concert.getTicketsSold(); // Accumulate tickets sold
         }
@@ -69,26 +69,24 @@ public class TicketPromoter {
        to find the average revenue.
     */
     public String averageRevenuePerVenue() {
-        double totalRevenue = 0; // Initialize total revenue to zero
+        double totalRevenue = 0; 
         for (Concert concert : concerts) {
             totalRevenue += concert.getRevenue(); // Accumulate total revenue
         }
         // Calculate the average revenue by dividing by the number of concerts
         double average = totalRevenue / concerts.length;
-        return "Average revenue per venue: $" + average; // Return average revenue as a string
+        return "Average revenue per venue: $" + average; 
     }
 
     /* 
        toString method returns a string representation of all concerts.
-       This method iterates through the concerts array, concatenating the string representation
-       of each concert to create a summary of all concerts.
     */
     public String toString() {
-        String result = ""; // Initialize an empty string to hold concert information
+        String result = ""; 
         for (Concert concert : concerts) {
-            result += concert; // Append the string representation of each concert
-            result += "----------\n"; // Add a separator between concerts
+            result += concert; 
+            result += "----------\n"; 
         }
-        return result; // Return the final concatenated string
+        return result; 
     }
 }

@@ -24,7 +24,7 @@ public class DataRunner {
         */
         boolean running = true;
       
-        while (running) {
+         while (running) {
             // Display a welcome message and the options available to the user
             System.out.println("Welcome to the Taylor Swift Concert Ticket Promoter!");
             System.out.println("Choose an option:");

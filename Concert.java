@@ -11,7 +11,7 @@ public class Concert {
 
     /* 
        No-argument constructor initializes a Concert object with default values. 
-       This allows for the creation of a Concert instance without needing to specify details initially.
+       This allows for the creation of a Concert instance without needing to specify details initially
     */
     public Concert() {
         venue = "";                 
@@ -26,10 +26,10 @@ public class Concert {
        and revenue. This provides flexibility for object initialization.
     */
     public Concert(String venue, int ticketsSold, int ticketsAvailable, double revenue) {
-        this.venue = venue;                        // Set the venue name
-        this.ticketsSold = ticketsSold;            // Set the number of tickets sold
-        this.ticketsAvailable = ticketsAvailable;   // Set the number of tickets available
-        this.revenue = revenue;                    // Set the total revenue
+        this.venue = venue;                       
+        this.ticketsSold = ticketsSold;            
+        this.ticketsAvailable = ticketsAvailable;   
+        this.revenue = revenue;                   
     }
 
     /* 
@@ -70,8 +70,6 @@ public class Concert {
        making it easy to print or log the concert information.
     */
     public String toString() {
-        return "Concert at " + venue + ": Sold " + ticketsSold + 
-               ", Available " + ticketsAvailable + 
-               ", Revenue: $" + revenue + ".\n";
+        return "Concert at " + venue + ": Sold " + ticketsSold +  ", Available " + ticketsAvailable + ", Revenue: $" + revenue + ".\n";
     }
 }
