@@ -12,13 +12,15 @@ Software engineers develop programs to work with data and provide information to
 
 ## Dataset 
 
-Example: 
-
 Dataset: https://www.kaggle.com/datasets/gayu14/taylor-concert-tours-impact-on-attendance-and
 - **venues** (String) - place Taylor Swift has her concert
 - **ticketsSold** (int) - tickets sold for the concert
 - **ticketsAvailable** (int) - amount of tickets available for the concert
 - **revenues** (double) - income of each concert held
+
+## Slides Presentation 
+
+https://docs.google.com/presentation/d/1oLw4UXr7LBTP6L-E9phvUgB5p_oZ5MHWsk6mf_ms9H4/edit?usp=sharing
 
 ## UML Diagram 
 
